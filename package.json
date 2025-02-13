@@ -1,0 +1,23 @@
+{
+  "name": "soum_web",
+  "version": "1.0.0",
+  "description": "E2E Test Project to test Soum (E-Commerce) website",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emankadry89/Soum_Web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Emankadry89/Soum_Web/issues"
+  },
+  "homepage": "https://github.com/Emankadry89/Soum_Web#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.2"
+  }
+}
